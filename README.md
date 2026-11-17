@@ -1,4 +1,3 @@
-
 # Awesome Claude Code Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
@@ -384,7 +383,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### Companion Apps & Tools
 - [Onepilot](https://onepilotapp.com) — iOS app to SSH into remote servers and run Claude Code from your phone
-- - [RemoteCC](https://github.com/Remotecc-dev/remotecc) — Open-source remote control for Claude Code and Codex: drive sessions on your own computer from your phone or any browser, end-to-end encrypted
+- [RemoteCC](https://github.com/Remotecc-dev/remotecc) — Open-source remote control for Claude Code and Codex: drive sessions on your own computer from your phone or any browser, end-to-end encrypted
 
 ### Knowledge Management
 - [bedrock](./plugins/bedrock)
