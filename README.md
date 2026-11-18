@@ -383,6 +383,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### Companion Apps & Tools
 - [Onepilot](https://onepilotapp.com) — iOS app to SSH into remote servers and run Claude Code from your phone
+- - [RemoteCC](https://github.com/Remotecc-dev/remotecc) — Open-source remote control for Claude Code and Codex: drive sessions on your own computer from your phone or any browser, end-to-end encrypted
 
 ### Knowledge Management
 - [bedrock](./plugins/bedrock)
@@ -393,7 +394,8 @@ Community-maintained plugin marketplaces you can add to access additional plugin
 
 | Marketplace | Description | Install |
 |-------------|-------------|---------|
-| [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips?tab=readme-ov-file#install-the-dx-plugin) | dx plugin: GitHub Actions analysis (`/gha`), conversation cloning (`/clone`, `/half-clone`), context handoffs (`/handoff`), Reddit fetching (`/reddit-fetch`) | `claude plugin marketplace add ykdojo/claude-code-tips` then `claude plugin install dx@ykdojo` |
+| [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips?tab=readme-ov-file#install-the-dx-plugin) | dx plugin: GitHub Actions analysis (`/gha`), conversation cloning (`/clone`, `/half-clone`), context handoffs (`/handoff`), Reddit fetching (`/reddit-fetch`) | `claude plugin marketplace add ykdojo/claude-code-tips` the
+| [Remotecc-dev/remotecc](https://github.com/Remotecc-dev/remotecc) | remotecc plugin: installs and sets up RemoteCC so you can use Claude Code from your phone or any browser; `/remotecc-pair` pairs a device | `claude plugin marketplace add Remotecc-dev/remotecc` then `claude plugin install remotecc@remotecc` |n `claude plugin install dx@ykdojo` |
 
 
 ### Skills & Frameworks
